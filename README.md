@@ -19,11 +19,11 @@
 
 ### :woman_technologist: Sobre mí :
 
-Apasionada de la tecnología y disfrutando de una transición laboral al QA Engineer <img  src = " https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif "  width = " 30 "> ![image](https://github.com/user-attachments/assets/364206f9-b191-4d2e-a61a-7ec38205ad3d)
+Apasionada de la tecnología y disfrutando de una transición laboral al QA Engineer <img  src = ![image](https://github.com/user-attachments/assets/364206f9-b191-4d2e-a61a-7ec38205ad3d)  width = " 30 ">
 
-* 🔭 Experiencia laboral anterior fue en el departamento de compras de una empresa de elaboración de equipo para transformadores pero necesito nuevos retos : 💪 :  
+* 🔭 Experiencia laboral anterior fue en el departamento de compras de una empresa de elaboración de equipo para transformadores pero necesito nuevos retos : 💪  
 
-* 🌱 Estoy estudiando :  📘 : y practicando : 💻 : lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* 🌱 Estoy estudiando :  📘  y practicando : 💻  lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo
 
