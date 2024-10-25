@@ -2,10 +2,6 @@
   <img decoding="async" src="https://github.com/Guadalupe198934/Guadalupe198934/blob/main/1.png" width="800"/>
 </div>
 
-<div  id = " insignias "  align = " center ">
-
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-aisidi-cotero-g/)
-
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 
@@ -44,8 +40,6 @@ Apasionada de la tecnología y disfrutando de una transición laboral al QA Engi
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+### :hammer_and_wrench: Lenguajes :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
