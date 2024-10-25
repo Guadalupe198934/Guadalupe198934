@@ -27,8 +27,12 @@ Apasionada de la tecnología y disfrutando de una transición laboral al QA Engi
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* 📫 ¿Quieres contactarme? [ ![ Insignia de Linkedin ] ( https://www.linkedin.com/in/guadalupe-aisidi-cotero-g/ )
+* 📫 ¿Quieres contactarme?
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-aisidi-cotero-g/)
 
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
