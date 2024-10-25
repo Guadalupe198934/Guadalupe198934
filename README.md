@@ -2,9 +2,9 @@
   <img decoding="async" src="https://github.com/Guadalupe198934/Guadalupe198934/blob/main/1.png" width="800"/>
 </div>
 
-<div id="header2" align="center">
+align="center"
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-aisidi-cotero-g/)
-</div>
+
 
 [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
 
