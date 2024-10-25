@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Guadalupe198934/Guadalupe198934/blob/main/Banner%20Github.png" width="800"/>
+</div>
+
 ## Hi there 👋
 
 <!--
