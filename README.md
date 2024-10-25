@@ -19,12 +19,12 @@
 
 ### :woman_technologist: Sobre mí :
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img  src = " https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif "  width = " 30 ">
+Apasionada de la tecnología y disfrutando de una transición laboral al QA Engineer <img  src = " https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif "  width = " 30 ">
    
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos : músculo :  
+* 🔭 Experiencia laboral anterior fue en el departamento de compras de una empresa de elaboración de equipo para transformadores pero necesito nuevos retos : músculo :  
 
-* 🌱 Estoy estudiando : blue_book : y practicando : computer : lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* 🌱 Estoy estudiando : QA Engineer : y practicando : computer : lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* 📫 ¿Quieres contactarme? [ ![ Insignia de Linkedin ] ( https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white )] ( https://www.linkedin.com/in/noelianav/ )
+* 📫 ¿Quieres contactarme? [ ![ Insignia de Linkedin ] ( https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white )] ( https://www.linkedin.com/in/guadalupe-aisidi-cotero-g/ )
